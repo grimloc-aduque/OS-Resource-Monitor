@@ -18,11 +18,11 @@ Python implementation of a real-time monitor for compute resources
 
 ## Standard View
 
-<img src="./Images/monitor_standard_view.png" style="width:400px;"/>
+<img src="./Images/monitor_standard_view.png" style="width:650px;"/>
 
 ## Historical View
 
-<img src="./Images/monitor_historical_view.png" style="width:400px;"/>
+<img src="./Images/monitor_historical_view.png" style="width:650px;"/>
 
 
 # Class Diagram
@@ -32,4 +32,4 @@ MVC implementation
 * View (Monitor)
 * Controller (Runnables: Plotters/ProcessesUpdater)
 
-<img src="./Images/class_diagram.png" style="width:400px;"/>
+<img src="./Images/class_diagram.png" style="width:650px;"/>
